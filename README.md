@@ -1,2 +1,2 @@
-# Java-Exerc-cios
+# Java-Exercícios
 Exercícios realizados em aula
